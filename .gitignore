@@ -8,3 +8,7 @@ Media/
 vendor/
 .models/
 .hide/
+*.json
+*.so
+build*
+.air.toml

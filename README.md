@@ -55,7 +55,7 @@ Silahkan untuk melakukan donasi jika berkenan.
 
 # Library ?
 - [whatsmeow](https://go.mau.fi/whatsmeow)
-- [gowhatsplugins](github.com/mamur-rezeki/gowhatsplugins)
+- [gowhatsplugins](https://github.com/mamur-rezeki/gowhatsplugins)
 - [qrterminal](https://github.com/mdp/qrterminal)
 - [pgx](https://github.com/jackc/pgx)
 - [go-sqlite3](https://github.com/mattn/go-sqlite3)

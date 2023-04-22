@@ -1,0 +1,8 @@
+rm *.so
+
+for thedir in */; do 
+    thedir=`basename $thedir`
+
+    go build -buildmode=plugin -gcflags="all=-N -l" ./$thedir
+
+done

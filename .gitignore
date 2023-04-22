@@ -10,5 +10,4 @@ vendor/
 .hide/
 *.json
 *.so
-build*
 .air.toml

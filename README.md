@@ -5,6 +5,8 @@
 </div>
 
 # GoWhatsBot : Apa itu ?
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmamur-rezeki%2Fgowhatsbot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmamur-rezeki%2Fgowhatsbot?ref=badge_shield)
+
 GoWhatsBot adalah Bot WhatsApp yang dibangun dengan Go-lang bebasiskan library [` whatsmeow `](https://github.com/tulir/whatsmeow).
 
 
@@ -65,3 +67,7 @@ Silahkan untuk melakukan donasi jika berkenan.
 - [imaging](https://github.com/disintegration/imaging)
 - [webp](https://github.com/chai2010/webp)
 - [gozxing](https://github.com/makiuchi-d/gozxing)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmamur-rezeki%2Fgowhatsbot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmamur-rezeki%2Fgowhatsbot?ref=badge_large)
